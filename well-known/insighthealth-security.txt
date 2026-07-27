@@ -1,0 +1,8 @@
+# Insight Health - Security Vulnerability Disclosure
+# https://insighthealth.ai
+
+Contact: mailto:security@insighthealth.ai
+Policy: https://insighthealth.ai/security
+Preferred-Languages: en
+Canonical: https://insighthealth.ai/.well-known/security.txt
+Expires: 2027-03-06T00:00:00.000Z

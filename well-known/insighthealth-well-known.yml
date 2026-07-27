@@ -1,0 +1,16 @@
+generated: '2026-07-19'
+method: searched
+host: https://insighthealth.ai
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  file: insighthealth-security.txt
+  note: RFC 9116; served via Cloudflare Worker (well-known-worker.insight-health-ai-inc.workers.dev)
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

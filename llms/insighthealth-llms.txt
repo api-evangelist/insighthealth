@@ -1,0 +1,138 @@
+# Insight Health
+
+> We build AI clinical agents that handle the patient-facing workflows clinical staff spend the most time on, including phone answering, fax processing, ambient note-taking, intake, follow-up, referral management, and triage.
+
+Insight Health is built by practicing physicians for clinical practices that want to take administrative load off their staff without compromising patient safety, data security, or clinical quality. We are HIPAA compliant and SOC 2 Type II certified. Our voice agent Lumi handled the first known autonomous clinical AI conversation with a patient in October 2023, and we have since handled more than 4 million patient conversations across 60+ medical specialties. Aura AI Scribe saves clinicians 2+ hours of charting per day, and our AI FrontDesk reduces average wait times by ~75% and call abandonment by ~60%. We integrate with the major outpatient EHRs via FHIR R4 and HL7v2, including exclusive AI provider partnerships with Office Practicum and Medicat that come with advanced integration not available to other AI vendors.
+
+## Products
+
+- [Aura AI Scribe](https://www.insighthealth.ai/ambient): Real-time, specialty-specific ambient clinical scribe that produces a SOAP-style note during the visit and saves clinicians 2+ hours of charting per day.
+- [Aura Anywhere](https://www.insighthealth.ai/aura-anywhere): Embedded AI scribe SDK for EHR vendors and digital health platforms; lets a partner platform offer ambient documentation under their own brand and inside their own UX, with multi-tenant isolation and event-driven note delivery.
+- [AI FrontDesk for clinic call centers](https://www.insighthealth.ai/ai-frontdesk-for-clinic-call-centers): 24/7 AI receptionist that answers patient calls, books appointments, and routes urgent issues, deployed in clinic front desks and centralized call centers.
+- [AI Fax Agent](https://www.insighthealth.ai/fax-ai-agent): Inbound fax processing agent that classifies referrals, labs, prior auth requests, insurance and benefits, clinical records, prescriptions, medical-records requests, and EOBs, then routes structured data into the EHR in under 2 minutes with 99.5% extraction accuracy.
+- [Pre-Visit Intake AI Agent](https://www.insighthealth.ai/pre-visit-intake): Voice or text agent that captures patient history and chief complaint before the visit so clinicians start the encounter with a populated chart.
+- [Follow-up AI Agent](https://www.insighthealth.ai/followups): Automated post-visit check-ins that surface medication adherence issues, complications, and care-plan questions before they become readmissions.
+- [Referral Management AI Agent](https://www.insighthealth.ai/referral-management): Inbound referral classification, scheduling, and follow-up so practices clear referral backlogs without manual triage.
+- [Phone Triage AI Agent](https://www.insighthealth.ai/phone-triage): Symptom-based call triage that sorts urgent from routine and routes calls to the right clinical resource.
+- [Direct Access Colonoscopy AI Agent](https://www.insighthealth.ai/direct-access-colonoscopy): Eligibility screening and scheduling agent for direct-access colonoscopy programs in GI practices.
+- [Virtual Care Assistant](https://www.insighthealth.ai/solution-virtual-care-assistant): Enterprise virtual care assistant that bundles patient intake, scribing, and follow-up under one agent layer for larger practices and health systems.
+- [Closing HEDIS gaps for health plans](https://www.insighthealth.ai/hedis): Voice and text agent for health plans that engages members directly to close HEDIS gaps across colorectal, breast, and cervical cancer screening, statin use and adherence, blood pressure control, and prenatal care.
+- [Pricing](https://www.insighthealth.ai/pricing): Pricing for Aura AI Scribe (Free, Pro, Team, Enterprise) and outcome-based pricing for our AI agents (per call, per intake, per follow-up, per referral, per assessment).
+
+## Use cases by specialty
+
+- [Pain and spine intake](https://www.insighthealth.ai/use-cases/pain-and-spine-intake): Pre-visit intake tuned for pain and spine practices, including red-flag screening and prior-authorization triggers.
+- [Primary care intake](https://www.insighthealth.ai/use-cases/primary-care-intake): Pre-visit intake for primary care, including history of present illness, social history, and medication reconciliation.
+- [Annual wellness visits](https://www.insighthealth.ai/use-cases/annual-wellness-visits): Workflow for Medicare Annual Wellness Visit (AWV) capture and HCC coding support.
+- [Neurosurgery referral management](https://www.insighthealth.ai/use-cases/neurosurgery-referral-management): Referral intake and routing for neurosurgery practices, including imaging triage and consult prioritization.
+- [Colonoscopy recall management](https://www.insighthealth.ai/use-cases/ai-powered-colonoscopy-recall-management): Outbound recall agent for GI practices that contacts patients due for colonoscopy and books screenings.
+- [AI FrontDesk for clinic call centers (use case)](https://www.insighthealth.ai/use-cases/ai-frontdesk-for-clinic-call-centers): Use-case framing of AI FrontDesk for high-volume clinic call centers, with operational metrics on hold time, abandonment, and staff productivity.
+
+## EHR integrations and exclusive partnerships
+
+We integrate with athenaOne, Epic, eClinicalWorks, NextGen, AdvancedMD, DrChrono, Elation, Charm Health, and ModMed via FHIR R4 and HL7v2. We also have exclusive AI provider partnerships with Office Practicum and Medicat that include advanced integration not available to other AI vendors.
+
+- [EHR integrations](https://www.insighthealth.ai/ehr-integrations): The list of EHRs we integrate with and the protocols we use (FHIR R4, HL7v2).
+- [EHR partnership program](https://www.insighthealth.ai/ehr-partnership): For EHR vendors who want to embed Insight Health's AI scribing and voice agents in their platform.
+- [Medical transcription partnership](https://www.insighthealth.ai/medical-transcription-partnership): For transcription companies that want to extend their offering with AI scribing and post-visit summaries.
+- [Private equity partnership](https://www.insighthealth.ai/private-equity-partnership): For private equity firms with healthcare portfolios; covers how Insight Health is deployed across portfolio practices.
+- [Become a partner](https://www.insighthealth.ai/become-a-partner): General partner inquiry path for resellers, integrators, and clinical networks.
+- [Free phone audit](https://www.insighthealth.ai/free-phone-audit): A free assessment of how a clinic's current phone setup is losing calls; entry point to the AI FrontDesk evaluation.
+
+## Trust, security, and compliance
+
+- [Trust and safety overview](https://www.insighthealth.ai/trust-safety): Overview of HIPAA compliance, SOC 2 Type II certification, encryption, de-identification, and third-party penetration testing.
+- [SOC 2 Type II details](https://www.insighthealth.ai/soc2): Our SOC 2 Type II attestation and what is in scope.
+- [How we process PHI](https://www.insighthealth.ai/how-we-process-phi): How patient data flows through Insight Health, where it is stored, and how it is protected.
+- [Standard Business Associate Agreement (BAA)](https://www.insighthealth.ai/service-baa): The BAA we offer to all customers across all paid tiers.
+- [Responsible disclosure policy](https://www.insighthealth.ai/security): How security researchers can report vulnerabilities, what is in scope, and our triage and acknowledgment commitments.
+- [Privacy policy](https://www.insighthealth.ai/privacy): Privacy policy, including patient and clinician data handling and user rights.
+- [Terms of service](https://www.insighthealth.ai/terms-of-service): Terms governing our software and services.
+- [Terms of website use](https://www.insighthealth.ai/terms-of-use): Terms governing use of the insighthealth.ai website.
+- [SMS terms](https://www.insighthealth.ai/sms-terms): Terms specific to SMS communication with patients and users.
+- [Referral reward program terms](https://www.insighthealth.ai/referral-reward-program-terms-of-service): Terms for our customer referral rewards program.
+- [Brand identity guidelines](https://www.insighthealth.ai/brand-identity-guidelines): Logo usage, color palette, and typography rules for partners and press.
+
+## Company
+
+- [Insight Health home](https://www.insighthealth.ai/): Top-level overview of our products, customers, and company posture.
+- [Our mission](https://www.insighthealth.ai/our-mission): Why we built Insight Health and the clinical access and burnout problems we are taking on.
+- [About us](https://www.insighthealth.ai/about-us): Our team, including practicing-physician co-founders Dr. Pankaj Gore (Director of Brain Tumor and Skull Base Surgery at Providence Brain and Spine Institute, board of The Oregon Clinic) and Dr. Eric Stecker (cardiologist and professor at OHSU, chair of the ACC Science and Quality Committee), and engineering co-founders Jaimal Soni (CEO, formerly at Twilio Segment) and Saran Siva (CTO, formerly Head of Cloud Infrastructure Engineering at Twilio).
+- [Contact](https://www.insighthealth.ai/contact): How to reach us for sales, partnerships, or support.
+- [Careers](https://app.dover.com/jobs/insighthealth): Open roles at Insight Health, hosted on our Dover ATS.
+- [Newsroom](https://www.insighthealth.ai/newsroom): Press coverage, press releases, and podcast appearances.
+
+## Press and announcements
+
+- [The startup looking to solve health care's fax machine problem (Fortune)](https://fortune.com/2026/04/03/health-care-fax-machine-problem-insight-health-series-a-11-million-ai-assistants/): Fortune feature on our $11M Series A and the AI agents we are building to take on healthcare's persistent fax problem.
+- [The AI will see you now: clinical care agents at your service (Forbes)](https://www.forbes.com/sites/shimiteobialo/2025/07/24/the-ai-will-see-you-now-clinical-care-agents-at-your-service/): Forbes feature on the rise of clinical care agents, with Insight Health as a primary example.
+- [I didn't dedicate my career to medicine to manage paperwork, and AI scribes won't fix that (MedCity News)](https://medcitynews.com/2025/09/i-didnt-dedicate-my-career-to-medicine-to-manage-paperwork-and-ai-scribes-wont-fix-that/): Op-ed making the case that AI scribes alone will not fix clinician burnout, and that broader administrative AI is needed.
+
+## Articles by topic
+
+### Prior authorization
+
+- [AI prior authorization software: 2026 buyer's guide](https://www.insighthealth.ai/blog/ai-prior-authorization-software): Comparison of AI prior-authorization platforms and the features clinics should evaluate before buying.
+- [AI prior authorization: from administrative burden to automation](https://www.insighthealth.ai/blog/prior-authorization-automation-ai): How AI automates the prior-authorization submission and follow-up loop with payers.
+- [Prior authorization for pain management](https://www.insighthealth.ai/blog/prior-authorization-pain-management): Physician-authored guide to prior-authorization bottlenecks specific to pain management practices.
+- [Prior authorization approval rates: what 2026 data reveals](https://www.insighthealth.ai/blog/prior-authorization-approval-rate): Analysis of new CMS prior-authorization reporting data across Medicare Advantage, Medicaid, and ACA plans, with first-pass approval strategies.
+- [AI for prior authorization appeals](https://www.insighthealth.ai/blog/prior-authorization-appeal-ai): How AI shortens the prior-authorization appeal cycle and what to look for in a vendor.
+- [CMS-0057-F prior authorization rule](https://www.insighthealth.ai/blog/cms-0057-f-prior-authorization-rule): What CMS-0057-F requires of payers, the deadlines, and how practices should prepare.
+- [Medicare's WISeR model](https://www.insighthealth.ai/blog/medicares-wiser-model-prior-authorization): What the WISeR pilot adds to traditional Medicare Part B in six states, including services in scope and provider risk.
+
+### AI phone and front desk
+
+- [Best AI phone answering assistants for healthcare in 2026](https://www.insighthealth.ai/blog/best-ai-phone-answering-assistant-healthcare): Buyer's review of AI phone-answering platforms scoped to healthcare.
+- [Top 10 AI phone systems for healthcare clinics](https://www.insighthealth.ai/blog/best-medical-ai-phone-reviews): Side-by-side review of AI phone systems used in clinical settings.
+- [Voice calls for healthcare: how AI phone assistants work](https://www.insighthealth.ai/blog/voice-calls-for-healthcare): Plain-language explanation of how a clinical voice AI handles a patient call end-to-end.
+- [AI phone compliance in healthcare: beyond the HIPAA checklist](https://www.insighthealth.ai/blog/ai-phone-hipaa-compliant): What real HIPAA-compliant AI voice infrastructure looks like, beyond surface compliance claims.
+- [AI front desk: reducing hold times and staff burnout](https://www.insighthealth.ai/blog/ai-front-desk): Operational case for an AI front desk and the metrics it moves.
+- [How AI phone answering integrates with athenaOne](https://www.insighthealth.ai/blog/ai-phone-answering-athenahealth-integration): Walkthrough of the athenaOne integration for AI phone answering.
+- [How AI after-hours answering reduces burnout](https://www.insighthealth.ai/blog/after-hours-answering-service): How after-hours AI answering changes on-call rotations and overnight clinical load.
+- [Medical answering service software: a guide for busy clinics](https://www.insighthealth.ai/blog/medical-answering-service-software): Comparison of medical answering service options, including AI alternatives.
+- [Online answering machine: how AI handles patient calls](https://www.insighthealth.ai/blog/free-online-answering-machine): What AI answering looks like compared to a traditional voicemail.
+- [Comparing EliseAI to physician-built AI phone assistants](https://www.insighthealth.ai/blog/elise-ai): Honest comparison of EliseAI and clinician-built alternatives.
+- [Sully AI review 2026](https://www.insighthealth.ai/blog/sully-ai): Features, pricing, and alternatives for Sully AI.
+- [Talkie AI review](https://www.insighthealth.ai/blog/talkie-ai): Practical review of Talkie AI for clinic phone workflows.
+- [Assort Health alternatives](https://www.insighthealth.ai/blog/assort-health): Side-by-side of Assort Health and other AI phone assistants.
+
+### AI fax
+
+- [Why healthcare practices switch to AI fax automation](https://www.insighthealth.ai/blog/healthcare-ai-fax-service): How AI fax automation reads, classifies, and routes inbound documents in clinical operations.
+- [AI fax service for medical practices](https://www.insighthealth.ai/blog/ai-fax-service): How automated fax intake works end-to-end and what categories of documents it handles (referrals, labs, prior authorization, records).
+- [Beyond fax automation: building an AI-first medical practice](https://www.insighthealth.ai/blog/ai-fax-healthcare): What it takes to operate a clinic where AI handles the document, voice, and chart layers, including security and EHR integration considerations.
+
+### Patient intake and follow-up
+
+- [Phone-based AI patient intake explained](https://www.insighthealth.ai/blog/patient-intake-efficiency-ai): How phone-based AI intake replaces paper and tablet intake forms.
+- [AI vs. traditional patient intake software](https://www.insighthealth.ai/blog/automated-patient-intake): Direct comparison of AI intake against legacy intake software.
+- [How clinics reduce staff burnout with AI assistants](https://www.insighthealth.ai/blog/reducing-clinic-staff-burnout): Operational moves clinics use to lower front-desk burnout with AI agents.
+
+### Compliance and clinical AI safety
+
+- [SAFEai: a monitoring framework for clinical AI](https://www.insighthealth.ai/blog/ai-in-healthcare-a-reliable-and-monitored-future-with-safeai): Insight Health's SAFEai framework for real-time supervision and self-evaluation of clinical AI behavior.
+- [AI for clinical documentation: chart generators and scribes](https://www.insighthealth.ai/blog/revolutionizing-clinical-documentation-with-ai): Survey of AI documentation approaches (chart generators, ambient scribes) and the trade-offs.
+
+### Pricing and ROI
+
+- [Conversational agents pricing guide 2026](https://www.insighthealth.ai/blog/conversational-agents-pricing-costs-models-roi): Costs, pricing models, and ROI math for clinical conversational agents.
+- [Conversational agents pricing: what clinics actually pay in 2026](https://www.insighthealth.ai/blog/conversational-agents-pricing-what-clinics-actually-pay): Real per-clinic price ranges observed in the market this year.
+- [Conversational agents pricing: what healthcare leaders need to know](https://www.insighthealth.ai/blog/conversational-agents-pricing): Decision-maker primer on pricing structures for conversational agents.
+- [Beyond RVUs: the true value of AI in clinical practice](https://www.insighthealth.ai/blog/beyond-rvus-the-true-value-of-ai-implementation-in-clinical-practice): A framework for evaluating AI return on investment beyond RVU productivity.
+
+### Specialty-specific
+
+- [AI in cardiology](https://www.insighthealth.ai/blog/ai-in-cardiology): Co-founder Dr. Eric Stecker on practical AI applications in cardiology.
+
+### Foundational
+
+- [Why we built Insight Health](https://www.insighthealth.ai/blog/why-we-built-insight-health): Co-founder essay on the patient-access and clinician-burnout problems behind the product, and the role of our voice agent Lumi.
+- [AI and primary care](https://www.insighthealth.ai/blog/ai-and-primary-care): How AI affects access, equity, and the primary-care workforce.
+- [The role of AI across US healthcare payment models](https://www.insighthealth.ai/blog/role-of-ai-healthcare-payment-models): How AI shows up differently across fee-for-service, value-based care, and capitated payment models.
+- [Introduction to LLMs for medical providers](https://www.insighthealth.ai/blog/introduction-to-llms-for-medical-providers): Primer on what large language models are, how they reason, and where they fit in clinical workflows.
+- [The future of healthcare is virtual care](https://www.insighthealth.ai/blog/the-future-of-healthcare-is-virtual-care): Why virtual care is foundational to the next decade of clinical operations.
+- [Startup playbook for email deliverability](https://www.insighthealth.ai/blog/the-essential-startup-playbook-for-flawless-email-delivery): Engineering write-up on solving email deliverability for B2B healthcare startups.
+
+## Optional
+
+- [Sample neurosurgery clinical note](https://www.insighthealth.ai/sample-clinical-note-for-neurosurgery): A sample SOAP-style clinical note for a neurosurgery encounter; useful as grounding for what specialty-specific output Aura AI Scribe produces.

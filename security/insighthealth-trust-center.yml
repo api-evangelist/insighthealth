@@ -1,0 +1,33 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://app.drata.com/trust/220868e7-c103-446d-b567-393e5bbe301e
+url: https://app.drata.com/trust/220868e7-c103-446d-b567-393e5bbe301e
+pages:
+- https://www.insighthealth.ai/trust-safety
+- https://www.insighthealth.ai/soc2
+- https://www.insighthealth.ai/how-we-process-phi
+- https://www.insighthealth.ai/service-baa
+certifications:
+- SOC 2 Type II
+- ISO 27001
+- HIPAA
+program:
+  encryption: true
+  de_identification: true
+  third_party_pen_test: true
+  baa_offered: true
+  baa_note: Standard Business Associate Agreement offered across all paid tiers
+evidence:
+- source: https://app.drata.com/trust/220868e7-c103-446d-b567-393e5bbe301e
+  keywords:
+  - soc 2
+  - soc2
+  - iso 27001
+- source: https://www.insighthealth.ai/llms.txt
+  keywords:
+  - hipaa compliant
+  - soc 2 type ii
+  - encryption
+  - de-identification
+  - third-party penetration testing
