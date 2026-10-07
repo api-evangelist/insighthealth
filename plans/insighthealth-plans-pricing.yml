@@ -1,0 +1,69 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.insighthealth.ai/pricing
+sources:
+- https://www.insighthealth.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Pro
+published: true
+note: 'Page combines outcome-based (custom, unpriced) AI agent pricing with priced Aura AI Scribe subscription
+  tiers; crossed-out higher prices ($49.99, $99.99, $600, $1,200) also shown. Data retention: notes deleted
+  after 21 days (Free), extendable 30/60/90 days.'
+plan_count: 7
+currency: USD
+plans:
+- name: Free Forever!
+  price_text: Free
+  period: month
+  unit: clinician
+  included_quota: No Credit Card Required, Fully customizable templates, Pre-charting and after visit
+    documents, Magic Edit, Standard BAA
+- name: Pro
+  price_text: $39.99
+  price: 39.99
+  currency: USD
+  period: month
+  unit: Per clinician
+  included_quota: Everything in the Free Plan, Auto-templates, ICD-10 & CPT Coding, Chat Support
+- name: Pro (annual)
+  price_text: $480/yr
+  price: 480
+  currency: USD
+  period: year
+  unit: Per clinician
+  included_quota: listed against $600
+- name: Team
+  price_text: $79.99
+  price: 79.99
+  currency: USD
+  period: month
+  unit: Per clinician
+  included_quota: Everything in the Pro Plan, Manage & transfer seats, Enhanced onboarding & support,
+    EHR Integration*
+- name: Team (annual)
+  price_text: $960/yr
+  price: 960
+  currency: USD
+  period: year
+  unit: Per clinician
+  included_quota: listed against $1,200
+- name: Enterprise
+  price_text: Contact us for a custom quote.
+  period: none
+  included_quota: Everything in the Team plan, Volume discounts bundling with our AI product suite, Custom
+    BAA
+- name: AI Agents (Pre-Visit Intake, Follow-up, Referral, Phone Triage, Colonoscopy, FrontDesk)
+  price_text: Get Custom Pricing
+  period: none
+  included_quota: 'Outcome-based pricing: per-call / per completion / per processed referral / per completed
+    assessment, volume discounts available'
